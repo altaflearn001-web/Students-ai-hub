@@ -1,0 +1,5 @@
+{
+  "name": "Student AI Hub",
+  "description": "A comprehensive student productivity app with AI timetable analysis, to-do list, chatbot, notes generator, finance manager, and focus timer.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
